@@ -1,6 +1,7 @@
 1. Acceptance of Terms
 
 By accessing or using Simple Wolf, you agree to be bound by these terms of service. If you do not agree, please do not use the bot.
+
 2. User Responsibilities
 
     Compliance: You agree to comply with all applicable laws, the Discord Terms of Service, and the SimpleMMO Terms of Service while using Simple Wolf.
